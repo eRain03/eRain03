@@ -14,8 +14,8 @@
     <a href="https://www.upwork.com/freelancers/~0128a38daaa56fffc3" target="_blank">
       <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
     </a>
-    <a href="mailto:funy.haotian@gmail.com">
-      <img src="https://img.shields.io/badge/Email-funy.haotian%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:Tayen@erain.xin">
+      <img src="https://img.shields.io/badge/Email-Tayen%40erain.xin-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
