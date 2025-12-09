@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="你的UPWORK主页链接" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~0128a38daaa56fffc3" target="_blank">
       <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
     </a>
     <a href="mailto:funy.haotian@gmail.com">
@@ -64,6 +64,4 @@ With **3 years of Emergency Response experience**, I specialize in building syst
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erain03&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="erain03 trophies" />
-</div>
+
